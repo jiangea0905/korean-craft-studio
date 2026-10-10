@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="t"><title id="t">나전 함</title><rect width="800" height="600" fill="#f1ebe0"/><ellipse cx="400" cy="520" rx="230" ry="26" fill="#3b332b" opacity="0.12"/>
+<rect x="170" y="270" width="460" height="200" rx="14" fill="#2f2a26"/>
+<rect x="150" y="190" width="500" height="110" rx="18" fill="#3b3530"/>
+<rect x="150" y="190" width="500" height="26" rx="13" fill="#4a423b"/>
+<rect x="372" y="282" width="56" height="44" rx="8" fill="#b88a5a"/>
+<circle cx="400" cy="304" r="7" fill="#2f2a26"/>
+<g fill="#e9e4da" opacity="0.9">
+<circle cx="220" cy="250" r="6"/><circle cx="270" cy="228" r="4"/><circle cx="330" cy="256" r="7"/><circle cx="470" cy="236" r="5"/><circle cx="530" cy="258" r="7"/><circle cx="590" cy="230" r="4"/><circle cx="400" cy="236" r="5"/>
+<circle cx="230" cy="400" r="5"/><circle cx="300" cy="430" r="7"/><circle cx="500" cy="410" r="6"/><circle cx="570" cy="436" r="4"/><circle cx="260" cy="350" r="4"/><circle cx="540" cy="350" r="5"/>
+</g>
+<g fill="#a9c7bd" opacity="0.8"><circle cx="300" cy="232" r="4"/><circle cx="500" cy="262" r="4"/><circle cx="360" cy="420" r="5"/><circle cx="450" cy="440" r="4"/></g>
+</svg>

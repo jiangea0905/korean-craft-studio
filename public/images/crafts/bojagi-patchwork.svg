@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="t"><title id="t">조각보 보자기</title><rect width="800" height="600" fill="#f4eee3"/><ellipse cx="400" cy="520" rx="230" ry="26" fill="#3b332b" opacity="0.12"/>
+<g transform="rotate(-3 400 300)">
+<rect x="160" y="100" width="200" height="170" fill="#a9c7bd"/>
+<rect x="360" y="100" width="280" height="110" fill="#d9c3a0"/>
+<rect x="360" y="210" width="130" height="190" fill="#c48b6c"/>
+<rect x="490" y="210" width="150" height="190" fill="#e8dfcf"/>
+<rect x="160" y="270" width="200" height="130" fill="#7fa598"/>
+<rect x="160" y="400" width="330" height="100" fill="#e3d2b4"/>
+<rect x="490" y="400" width="150" height="100" fill="#b0714f"/>
+<g fill="none" stroke="#f4eee3" stroke-width="5" stroke-linecap="round">
+<path d="M160 270H360M360 100V400M360 210H640M490 210V500M160 400H640"/>
+</g>
+<rect x="160" y="100" width="480" height="400" fill="none" stroke="#8a6a4d" stroke-width="4" opacity="0.5"/>
+</g>
+</svg>

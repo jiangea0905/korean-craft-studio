@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img">
+  <title>보자기를 접어 매듭을 짓는 장면</title>
+  <rect width="800" height="600" fill="#f4eee2"/>
+  <rect y="420" width="800" height="180" fill="#e6dcc8"/>
+  <circle cx="150" cy="120" r="64" fill="#dfe7e0"/>
+  <!-- cloth spread -->
+  <path d="M120 470 L300 250 L650 270 L700 480 Z" fill="#c9b79a"/>
+  <path d="M300 250 L650 270 L560 360 L240 340 Z" fill="#9db8a6"/>
+  <path d="M240 340 L560 360 L700 480 L120 470 Z" fill="#b6a07f"/>
+  <path d="M300 250 L650 270 L630 290 L320 272 Z" fill="#7f9f8b"/>
+  <!-- patchwork lines -->
+  <path d="M400 255 L370 350 M520 262 L490 355" stroke="#f4eee2" stroke-width="4" fill="none" opacity="0.7"/>
+  <!-- wrapped bundle -->
+  <rect x="320" y="330" width="180" height="110" rx="14" fill="#a98f6c"/>
+  <!-- knot -->
+  <path d="M410 340 Q360 290 340 330 Q350 370 410 345 Z" fill="#8a6a50"/>
+  <path d="M410 340 Q460 290 480 330 Q470 370 410 345 Z" fill="#8a6a50"/>
+  <circle cx="410" cy="345" r="16" fill="#6e5238"/>
+  <path d="M405 355 Q380 410 360 430 M415 355 Q440 410 465 428" stroke="#6e5238" stroke-width="9" fill="none" stroke-linecap="round"/>
+  <!-- needle and thread -->
+  <rect x="610" y="130" width="100" height="6" rx="3" fill="#8a6a50" transform="rotate(35 660 133)"/>
+  <path d="M640 160 Q580 210 620 250" stroke="#7f9f8b" stroke-width="3" fill="none"/>
+  <!-- hand -->
+  <path d="M90 360 Q150 320 230 360 L250 410 Q170 420 100 410 Z" fill="#e3b99c"/>
+</svg>

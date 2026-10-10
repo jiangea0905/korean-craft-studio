@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="t"><title id="t">나전 손거울</title><rect width="800" height="600" fill="#f1ebe0"/><ellipse cx="400" cy="520" rx="230" ry="26" fill="#3b332b" opacity="0.12"/>
+<rect x="372" y="380" width="56" height="140" rx="28" fill="#3b3530" transform="rotate(-8 400 450)"/>
+<circle cx="400" cy="270" r="170" fill="#4a423b"/>
+<circle cx="400" cy="270" r="150" fill="#2f2a26"/>
+<g transform="translate(400 270)">
+<g fill="#e9e4da">
+<ellipse cx="0" cy="-52" rx="22" ry="40"/><ellipse cx="0" cy="-52" rx="22" ry="40" transform="rotate(72)"/><ellipse cx="0" cy="-52" rx="22" ry="40" transform="rotate(144)"/><ellipse cx="0" cy="-52" rx="22" ry="40" transform="rotate(216)"/><ellipse cx="0" cy="-52" rx="22" ry="40" transform="rotate(288)"/>
+</g>
+<circle r="20" fill="#a9c7bd"/>
+</g>
+<g fill="#e9e4da" opacity="0.8"><circle cx="270" cy="270" r="4"/><circle cx="530" cy="270" r="4"/><circle cx="400" cy="140" r="4"/><circle cx="400" cy="400" r="4"/></g>
+</svg>

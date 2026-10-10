@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img">
+  <title>나무 작은 함과 목공 도구가 놓인 작업대</title>
+  <rect width="800" height="600" fill="#f4eee2"/>
+  <rect y="400" width="800" height="200" fill="#d8c3a0"/>
+  <rect y="400" width="800" height="10" fill="#bda27a"/>
+  <path d="M0 470 H800 M0 540 H800" stroke="#c7ad86" stroke-width="3"/>
+  <circle cx="660" cy="120" r="66" fill="#dfe7e0"/>
+  <!-- shelf -->
+  <rect x="80" y="150" width="200" height="12" rx="6" fill="#bda27a"/>
+  <rect x="110" y="104" width="46" height="46" rx="6" fill="#9db8a6"/>
+  <!-- box -->
+  <path d="M260 300 L540 300 L540 420 L260 420 Z" fill="#a67c52"/>
+  <path d="M260 300 L300 262 L580 262 L540 300 Z" fill="#c29a6c"/>
+  <path d="M540 300 L580 262 L580 382 L540 420 Z" fill="#8a6a50"/>
+  <path d="M290 330 H510 M290 360 H510 M290 390 H510" stroke="#8f6a45" stroke-width="3" opacity="0.6"/>
+  <rect x="385" y="320" width="30" height="22" rx="4" fill="#4d4034"/>
+  <!-- chisel -->
+  <rect x="100" y="440" width="150" height="16" rx="4" fill="#9a9a94"/>
+  <rect x="236" y="436" width="70" height="24" rx="10" fill="#6e5238"/>
+  <!-- mallet -->
+  <rect x="620" y="440" width="110" height="12" rx="6" fill="#8a6a50"/>
+  <rect x="590" y="415" width="60" height="62" rx="10" fill="#a67c52"/>
+  <!-- sandpaper -->
+  <rect x="440" y="470" width="110" height="50" rx="4" fill="#e6dcc8" transform="rotate(-6 495 495)"/>
+  <!-- shavings -->
+  <path d="M130 520 Q150 495 170 520 Q190 545 210 520" stroke="#efe3c8" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>

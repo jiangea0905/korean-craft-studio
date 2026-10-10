@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="t"><title id="t">청자 연잎 찻사발</title><rect width="800" height="600" fill="#efe9dc"/><ellipse cx="400" cy="520" rx="230" ry="26" fill="#3b332b" opacity="0.12"/>
+<ellipse cx="400" cy="470" rx="190" ry="40" fill="#b99a78"/>
+<ellipse cx="400" cy="458" rx="170" ry="32" fill="#cdb08d"/>
+<path d="M170 250h460c0 120-70 200-230 200S170 370 170 250z" fill="#a9c7bd"/>
+<path d="M170 250c0 120 70 200 230 200V250z" fill="#8fb3a7" opacity="0.45"/>
+<ellipse cx="400" cy="250" rx="230" ry="46" fill="#e8f0ec"/>
+<ellipse cx="400" cy="254" rx="206" ry="34" fill="#7fa598"/>
+<path d="M300 340c60 30 140 30 200 0" fill="none" stroke="#e8f0ec" stroke-width="5" stroke-linecap="round" opacity="0.75"/>
+</svg>

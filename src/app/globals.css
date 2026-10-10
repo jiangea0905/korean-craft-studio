@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #f5f0e6;
+  --surface: #fbf8f2;
+  --ink: #25221e;
+  --muted: #6b645a;
+  --line: #ddd4c4;
+  --control-line: #8b8374;
+  --celadon: #5e8277;
+  --celadon-deep: #46665c;
+  --umber: #8a5a3c;
+  --danger: #9b3b2e;
+  --success: #3f6b50;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-control-line: var(--control-line);
+  --color-celadon: var(--celadon);
+  --color-celadon-deep: var(--celadon-deep);
+  --color-umber: var(--umber);
+  --color-danger: var(--danger);
+  --color-success: var(--success);
+  --font-sans: var(--font-geist-sans), "Apple SD Gothic Neo", "Malgun Gothic",
+    "Noto Sans KR", sans-serif;
+  --font-serif: "Noto Serif KR", "Batang", serif;
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans);
+}
+
+:focus-visible {
+  outline: 2px solid var(--celadon-deep);
+  outline-offset: 2px;
+}
+
+dialog::backdrop {
+  background: rgb(37 34 30 / 0.5);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
